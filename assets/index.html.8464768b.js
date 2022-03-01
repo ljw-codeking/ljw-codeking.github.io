@@ -1,0 +1,1 @@
+import{o as e,c as r}from"./app.ff208358.js";import{_ as c}from"./plugin-vue_export-helper.21dcd24c.js";const o={};function t(a,n){return e(),r("p",null,"\u76EE\u5F55 \u535A\u6587\u5305\u542B JavaScript\u3001Vue\u3001\u5C0F\u7A0B\u5E8F\u3001Node \u7B49\u6280\u672F\u7C7B\u6587\u7AE0\u3002")}var f=c(o,[["render",t]]);export{f as default};
